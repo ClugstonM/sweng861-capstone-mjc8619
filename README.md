@@ -11,4 +11,3 @@ A web-based comic book, manga, webcomic, and similar media tracker. Allows users
 - Backend: Node.js and Express
 - Frontend: React
 - Database: MongoDB
-- Authentication: Google OpenID Connect authorization-code flow
